@@ -5,4 +5,4 @@ Simple Java programs for practice and learning.
 - [Sum of elements of an Array, User Input](SumArray.java)
 - [Min and Max value in an Array](MinMax.java)
 - [Sum of a 2D array](Array2DSum.java)
-- [Count total Even and Odd numbers in an Array](CountEvenOdd.java) 
+- [Count total Even and Odd numbers present in an Array](CountEvenOdd.java) 
