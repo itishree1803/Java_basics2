@@ -6,4 +6,5 @@ Simple Java programs for practice and learning.
 - [Min and Max value in an Array](MinMax.java)
 - [Sum of a 2D array](Array2DSum.java)
 - [Count total Even and Odd numbers present in an Array](CountEvenOdd.java)
-- [Reversing elements of an Array](ReverseArray.java) 
+- [Reversing elements of an Array](ReverseArray.java)
+- [Sorted Array Checker](SortedArray.java)
