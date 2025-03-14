@@ -1,5 +1,5 @@
 
-public class methodsCondition {
+public class MethodConditions {
     static int logic(int x, int y) {
         int z;
         if (x>y){
